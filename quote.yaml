@@ -1,0 +1,25 @@
+--- 
+quotes: 
+  - 
+    q_no: 1
+    quote: "Kenapa kalo mau sahur tiba2 ngantuk? Karena Anda belum punya cinta yang menemani Anda sahur. - Anang"
+    tags: 
+      - cinta
+      - sahur
+      - anang
+
+  -
+    q_no: 2
+    quote: "Kupinang engkau dengan startup - Iqbal"
+    tags: 
+      - cinta
+      - lamaran 
+      - iqbal 
+
+  -
+    q_no: 3
+    quote: "Cinta itu bisa dibagi dengan 0 ga sih? - Adrian"
+    tags: 
+      - cinta
+      - matematika 
+      - adrian 
