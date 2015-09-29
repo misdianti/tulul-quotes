@@ -12,11 +12,11 @@ quotes:
   - q_no: 2
     quote: "Kupinang engkau dengan startup."
     author: Muhammad Iqbal
-    author_bio: Pejuang cinta
+    author_bio: Pejuang cinta pantang mundur
     tags: 
       - cinta
-      - lamaran 
-      - pinangan
+      - menikah
+      - lamaran
 
   - q_no: 3
     quote: "Cinta itu bisa dibagi dengan 0 ga sih?"
@@ -30,7 +30,7 @@ quotes:
   - q_no: 4
     quote: "Janganlah kamu takut menikah karena kekurangan uang. Takutlah kalo istri gak bahagia karena kekurangan uang."
     author: Muhammad Iqbal
-    author_bio: Pejuang cinta
+    author_bio: Pejuang cinta pantang mundur
     tags:
       - bahagia
       - uang
@@ -39,7 +39,7 @@ quotes:
   - q_no: 5
     quote: "Bagaimana mungkin seseorang kehilangan cinta yang seharusnya selalu ada di hati?"
     author: Muhammad Iqbal
-    author_bio: Pejuang Cinta
+    author_bio: Pejuang cinta pantang mundur
     tags:
       - hati
       - cinta
@@ -63,3 +63,191 @@ quotes:
      - cinta
      - ramadhan
 
+  - q_no: 8
+    quote: "Tidak akan ada habisnya untuk membicarakan cinta."
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta pantang mundur
+    tags:
+     - topik
+     - cinta
+     - habis
+
+  - q_no: 9
+    quote: "Kalo ada yang mendustakan cinta dia beraksi"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - dusta
+     - cinta
+     - aksi
+
+  - q_no: 10
+    quote: "Cinta itu memang tidak akan bisa dipisahkan dari kehidupan."
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta pantang mundur
+    tags:
+     - cinta
+     - kehidupan
+     - perpisahan
+
+  - q_no: 11
+    quote: "Ada yang suka main CTR? Cinta Tiada Rasa itu lhoo."
+    author: Adrian Nuradiansyah
+    author_bio: Geek jomblo semu
+    tags:
+      - game
+      - cinta
+      - Rasa
+
+  - q_no: 12
+    quote: "Cinta itu seperti mecin, membuat yang biasa menjadi luar biasa."
+    author: Andika Yudha
+    author_bio: Penimba ilmu dan cinta
+    tags:
+     - cinta
+     - kiasan
+     - luar biasa
+
+  - q_no: 13
+    quote: "Bukan titik yang membuat tinta, tapi tinta yang membuat titik. Bukan cantik yang membuat cinta, tapi cinta yang membuat cantik."
+    author: Andika Yudha
+    author_bio: Penimba ilmu dan cinta
+    tags:
+     - cinta
+     - tinta
+     - cantik
+
+  - q_no: 14
+    quote: "Jadi kaya fatimah dan ali donk. Cuman malaikat yang tahu tapi keduanya saling mendoakan"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - doa
+      - pasangan
+      - menikah
+
+  - q_no: 15
+    quote: "Eh cinta itu benda berapa dimensi sih?"
+    author: Adrian Nuradiansyah
+    author_bio: Geek jomblo semu
+    tags:
+     - cinta
+     - geek
+     - dimensi
+
+  - q_no: 16
+    quote: "Hati itu dipilih, bukan memilih."
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta pantang mundur
+    tags:
+     - cinta
+     - hati
+     - pilihan
+
+  - q_no: 17
+    quote: "Cinta terjadi karena terbiasa. Kalo lu udah terbiasa, maka tunggulah kedatangan cinta itu"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - cinta
+      - datang
+      - biasa
+
+  - q_no: 18
+    quote: "Jiwa ini terlalu rindu akan cinta sejati."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - cinta
+      - jiwa
+      - rindu
+
+  - q_no: 19
+    quote: "Sin dan Cos itu ibarat LDR, ketemu cuman 2x setaun."
+    author: Andros
+    author_bio: Motivator jomblo handal
+    tags:
+     - ldr
+     - geek
+     - cinta
+
+  - q_no: 20
+    quote: "Kamu kamu udah milih jadwal untuk siak? Sekarang kapan kamu memilih aku untuk menjadi pendamping hidupmu?" 
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - ngemufid
+      - pendamping
+      - ngarep
+
+  - q_no: 21
+    quote: "Kamu udah seneng dapet kelas? Sekarang kapan kamu mau menyenangkan diriku?" 
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - ngemufid
+      - senang
+      - ngarep
+
+  - q_no: 22
+    quote: "Selamat sore rakyat galau Indonesia!" 
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - galau
+      - Indonesia
+      - selamat
+
+  - q_no: 23
+    quote: "U sama I itu deket." 
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+      - kode
+      - ngarep
+      - dekat
+
+  - q_no: 24
+    quote: "Kalo bete taaruf aja."
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta pantang mundur
+    tags:
+     - bete
+     - taaruf
+     - lamaran
+
+  - q_no: 25
+    quote: "Izinkan aku taaruf kepadamu... Taaruf doank tapi."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - ngemufid
+     - taaruf
+     - lamaran     
+
+  - q_no: 26
+    quote: "Lelaki sejati sangat paham tidak ada wanita yang suka dimadu."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - wanita
+     - lelaki
+     - paham
+
+  - q_no: 27
+    quote: "Senyumannya mampu membutakan dunia dalam waktu singkat."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - senyuman
+     - buta
+     - ngemufid
+
+  - q_no: 28
+    quote: "Angin badai hujan bakal diterpanya dengan sangat mudah dan tanpa kekerasan."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - hujan
+     - angin
+     - ngemufid
