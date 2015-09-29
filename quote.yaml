@@ -1,25 +1,65 @@
 --- 
 quotes: 
-  - 
-    q_no: 1
-    quote: "Kenapa kalo mau sahur tiba2 ngantuk? Karena Anda belum punya cinta yang menemani Anda sahur. - Anang"
+  - q_no: 1
+    quote: "Kenapa kalo mau sahur tiba2 ngantuk? Karena Anda belum punya cinta yang menemani Anda sahur."
+    author: Anang Kusuma
+    author_bio: Ustad cinta veteran
     tags: 
       - cinta
       - sahur
-      - anang
+      - ramadhan
 
-  -
-    q_no: 2
-    quote: "Kupinang engkau dengan startup - Iqbal"
+  - q_no: 2
+    quote: "Kupinang engkau dengan startup."
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta
     tags: 
       - cinta
       - lamaran 
-      - iqbal 
+      - pinangan
 
-  -
-    q_no: 3
-    quote: "Cinta itu bisa dibagi dengan 0 ga sih? - Adrian"
+  - q_no: 3
+    quote: "Cinta itu bisa dibagi dengan 0 ga sih?"
+    author: Adrian Nuradiansyah
+    author_bio: Geek jomblo semu
     tags: 
       - cinta
+      - geek
       - matematika 
-      - adrian 
+
+  - q_no: 4
+    quote: "Janganlah kamu takut menikah karena kekurangan uang. Takutlah kalo istri gak bahagia karena kekurangan uang."
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta
+    tags:
+      - bahagia
+      - uang
+      - menikah
+
+  - q_no: 5
+    quote: "Bagaimana mungkin seseorang kehilangan cinta yang seharusnya selalu ada di hati?"
+    author: Muhammad Iqbal
+    author_bio: Pejuang Cinta
+    tags:
+      - hati
+      - cinta
+      - kehilangan
+
+  - q_no: 6
+    quote: "Orang ga tau apa yg dimilikinya sebelum kehilangan #motivatorhandal"
+    author: Andros
+    author_bio: Motivator jomblo handal
+    tags:
+     - kehilangan
+     - hati
+     - cinta
+
+  - q_no: 7
+    quote: "Mohon cinta dan lahir batin."
+    author: Adrian Nuradiansyah
+    author_bio: Geek jomblo semu
+    tags:
+     - lebaran
+     - cinta
+     - ramadhan
+
