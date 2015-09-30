@@ -3,7 +3,7 @@ quotes:
   - q_no: 1
     quote: "Kenapa kalo mau sahur tiba2 ngantuk? Karena Anda belum punya cinta yang menemani Anda sahur."
     author: Anang Kusuma
-    author_bio: Ustad cinta veteran
+    author_bio: Dokter cinta veteran
     tags: 
       - cinta
       - sahur
@@ -251,3 +251,50 @@ quotes:
      - hujan
      - angin
      - ngemufid
+
+  - q_no: 29
+    quote: "Kalo Anda susah tidur, mungkin Anda terlalu sibuk memikirkan cinta."
+    author: Anang Kusuma
+    author_bio: Dokter cinta veteran
+    tags: 
+      - cinta
+      - tidur
+      - ramadhan
+
+  - q_no: 30
+    quote: "Kalo abis shubuh trus ngantuk, mungkin itu karena Anda sudah terlalu kenyang dengan cinta."
+    author: Adrian Nuradiansyah
+    author_bio: Geek jomblo semu
+    tags: 
+      - cinta
+      - kenyang
+      - ramadhan
+
+  - q_no: 31
+    quote: "Kalau sampai pernikahan lu dibiayai sama orangtua juga, ke mana tanggung jawab lu sebagai anak dan menantu?"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - tanggung jawab
+     - menikah
+     - orangtua
+
+  - q_no: 32
+    quote: "Lu pikir pernikahan hanya tentang enaknya aja? Enggak bro. Pernikahan itu tentang mengarungi bahtera kehidupan bersama. Suka dan duka. #kemudian hening."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - suka
+     - menikah
+     - duka
+  
+  - q_no: 33
+    quote: "Gimana lu mau menggenapkan setengah agama kalau setengah modal aja lu gak punya?"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - modal
+     - menikah
+     - agama
+
+     
