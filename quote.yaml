@@ -21,7 +21,7 @@ quotes:
   - q_no: 3
     quote: "Cinta itu bisa dibagi dengan 0 ga sih?"
     author: Adrian Nuradiansyah
-    author_bio: Geek jomblo semu
+    author_bio: Awesome Akhi
     tags: 
       - cinta
       - geek
@@ -57,7 +57,7 @@ quotes:
   - q_no: 7
     quote: "Mohon cinta dan lahir batin."
     author: Adrian Nuradiansyah
-    author_bio: Geek jomblo semu
+    author_bio: Awesome Akhi
     tags:
      - lebaran
      - cinta
@@ -93,7 +93,7 @@ quotes:
   - q_no: 11
     quote: "Ada yang suka main CTR? Cinta Tiada Rasa itu lhoo."
     author: Adrian Nuradiansyah
-    author_bio: Geek jomblo semu
+    author_bio: Awesome Akhi
     tags:
       - game
       - cinta
@@ -129,7 +129,7 @@ quotes:
   - q_no: 15
     quote: "Eh cinta itu benda berapa dimensi sih?"
     author: Adrian Nuradiansyah
-    author_bio: Geek jomblo semu
+    author_bio: Awesome Akhi
     tags:
      - cinta
      - geek
@@ -264,7 +264,7 @@ quotes:
   - q_no: 30
     quote: "Kalo abis shubuh trus ngantuk, mungkin itu karena Anda sudah terlalu kenyang dengan cinta."
     author: Adrian Nuradiansyah
-    author_bio: Geek jomblo semu
+    author_bio: Awesome Akhi
     tags: 
       - cinta
       - kenyang
@@ -297,4 +297,83 @@ quotes:
      - menikah
      - agama
 
-     
+  - q_no: 34
+    quote: "Endah juga jarkom kan?"
+    author: Muhammad Iqbal
+    author_bio: Pejuang cinta pantang mundur
+    tags:
+     - endah
+     - jarkom
+     - iqbal
+
+  - q_no: 35
+    quote: "Cowok emang susah dipahami hatinya"
+    author: Adrian Nuradiansyah
+    author_bio: Awesome Akhi
+    tags:
+     - cowok
+     - hati
+     - paham
+
+  - q_no: 36
+    quote: "Bunga terakhiir"
+    author: Adrian Nuradiansyah
+    author_bio: Awesome Akhi
+    tags:
+     - bunga
+     - terakhir
+     - ngemufid
+
+  - q_no: 37
+    quote: "Iqbal so sweet banget"
+    author: Adrian Nuradiansyah
+    author_bio: Awesome Akhi
+    tags:
+     - sweet
+     - iqbal
+     - tulul
+
+  - q_no: 38
+    quote: "Lu udah bosen idup atau udah bosen idup sendiri?"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - bosen
+     - hidup
+     - ngemufid
+
+  - q_no: 39
+    quote: "Bal, plis bal jangan nikah dulu bal."
+    author: Adrian Nuradiansyah
+    author_bio: Awesome Akhi
+    tags:
+     - nikah
+     - iqbal
+     - tulul
+
+  - q_no: 40
+    quote: "Gue harus nyatakan berapa kali bahwa gue gak pernah galau?"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - galau
+     - tulul
+     - ngemufid     
+
+  - q_no: 41
+    quote: "Somay nya jangan ada pare nya. Soalnya pare pahit, sementara kenangan dalam hidup ini juga akan terasa pahit jika diingat selalu."
+    author: Adrian Nuradiansyah
+    author_bio: Awesome Akhi
+    tags:
+     - kenangan
+     - pahit
+     - tulul
+
+  - q_no: 42
+    quote: "Oh sial Kud terlalu kawaii. Wished you born in real world and I can marry you. >.<"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - waifu
+     - kud
+     - ngemufid 
