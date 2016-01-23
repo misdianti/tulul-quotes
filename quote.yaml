@@ -453,7 +453,7 @@ quotes:
   - q_no: 51
     quote: "Di dunia ini ada aktivitas bernama cuci tangan. Just FYI."
     author: Inas Junus
-    author_bio: 
+    author_bio: Ibu Rumah Tangga Tulul
     tags:
      - cuci tangan
      - fyi
@@ -568,7 +568,7 @@ quotes:
      - sulit
 
   - q_no: 64
-    quote: "Pal jangan lupa pake #imho. Biar ga ada yang tersakiti."
+    quote: "Jangan lupa pake #imho. Biar ga ada yang tersakiti."
     author: Andros
     author_bio: Motivator jomblo handal
     tags:
@@ -586,10 +586,930 @@ quotes:
      - istri
 
   - q_no: 66
-    quote: "Cuy, gak ada sejarahnya grup ini ngomongin dosen."
-    author: Ashar Fuadi
-    author_bio: Pembela kapitalis
+    quote: "Gak ada sejarahnya grup ini ngomongin dosen."
+    author: Fajar Setyo Nugroho
+    author_bio: Maste
     tags:
      - dosen
      - sejarah
-     - tulul        
+     - tulul 
+
+   - q_no: 67
+     quote: "Bahasa natural aja udah undecidable problem, apalagi bahasa hati"
+     author: Adrian Nuradiansyah
+     author_bio: Awesome akhi
+     tags:
+      - bahasa
+      - masalah
+      - hati
+
+   - q_no: 68
+     quote: "Badai sih pasti berlalu, kalo mantan berlalu ga?"
+     author: Dean Budoyo
+     author_bio: Awn
+     tags:
+      - badai
+      - berlalu
+      - mantan
+
+   - q_no: 69
+     quote: "Jangan cuma nyuruh bikin bot. Bikin sendiri dong. Dah S.Kom juga"
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - kampus
+      - bikin
+      - bot
+
+   - q_no: 70
+     quote: "Manusia perlu makan dan internet."
+     author: Mira Pravitasari
+     author_bio: Presiden RI 2034
+     tags:
+      - manusia
+      - makan
+      - internet
+
+   - q_no: 71
+     quote: "Kalau kapal tiba-tiba karam, diam berlalu tanpa asap. Walau tak bertemu di telegram, ku kan slalu menunggu di whatsapp."
+     author: Fajar Setyo Nugroho
+     author_bio: Maste
+     tags:
+      - telegram
+      - whatsapp
+      - bertemu
+
+   - q_no: 72
+     quote: "Paham belum tentu sayang. Lu tahu bedanya? Ngerti bedanya?"
+     author: Muhammad Mufid
+     author_bio: Guru Besar Kasih Sayang
+     tags:
+      - paham
+      - sayang
+      - perbedaan
+
+   - q_no: 73
+     quote: "Warna pelangi yang sesaat itu jauh lebih indah dibanding kelabu yang abadi"
+     author: Muhammad Iqbal
+     author_bio: Pejuang cinta pantang mundur
+     tags:
+      - pelangi
+      - indah
+      - kelabu
+
+   - q_no: 74
+     quote: "Mungkin hati ini terlalu sakit sampai luka di tangan pun tidak terasa."
+     author: Farah Nuraini
+     author_bio: Cunle
+     tags:
+      - luka
+      - hati
+      - rasa
+
+   - q_no: 75
+     quote: "kalau tidak ada bahu untuk bersandar, masih ada sajadah untuk bersujud."
+     author: Dean Budoyo
+     author_bio: awn
+     tags:
+      - nikah
+      - sandaran
+      - bahu
+
+   - q_no: 76
+     quote: "Normal mah relatif. Gaya normal aja relatif bidang"
+     author: Eriq Agustab
+     author_bio: Tululphile
+     tags:
+      - normal
+      - relatif
+      - geek
+
+   - q_no: 77
+     quote: "I will never forget... I still remember how we have our lunch, dinner, movies, songs. When we have our first date. When you call me dear."
+     author: Rinaldi Akbar
+     author_bio: Bang Natip
+     tags:
+      - kenangan
+      - pasangan
+      - cinta
+
+   - q_no: 78
+     quote: "Jodoh itu di tangan Tuhan. Setelah umur 30, Tuhan lepas tangan."
+     author: Firlia Sandyta
+     author_bio: Slow Motion Dyta
+     tags:
+      - jodoh
+      - tuhan
+      - nikah
+
+   - q_no: 79
+     quote: "Yaelah urusin cita2 masing2 aja dulu. Ntar along the way juga nemu jodoh"
+     author: Muhammad Iqbal
+     author_bio: Pejuang cinta pantang mundur
+     tags:
+      - jodoh
+      - nikah
+      - cita-cita
+
+   - q_no: 80
+     quote: "Memahami sinyal lampu lalu lintas aja masih gak bener, gimana mau paham sinyal dari si dia"
+     author: Muhammad Iqbal
+     author_bio: Pejuang cinta pantang mundur
+     tags:
+      - sinyal
+      - paham
+      - jodoh
+
+   - q_no: 81
+     quote: "Nembak sim udah, nembak si dia kapan?"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - nembak
+      - dia
+      - jodoh
+
+   - q_no: 82
+     quote: "Aku gak mau belajar gambar. Aku maunya belajar mencintaimu lebih dalam <3"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - cinta
+      - belajar
+      - jodoh
+
+   - q_no: 83
+     quote: "Jgn dibandingin sih Palantir ngeri. Kelasnya ama GOOGLE, APPLE dkk. Tapi buat apa itu semua kalau hampa rohani kita?"
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - hati
+      - hampa
+      - Palantir
+
+   - q_no: 84
+     quote: "Seperti dendam, rindu harus dibayar tuntas!"
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - dendam
+      - rindu
+      - bayar
+
+   - q_no: 85
+     quote: "Jatuh cinta bisa direncanain ya?"
+     author: Febriana Misdianti
+     author_bio: Pecinta lelaki tampan
+     tags:
+      - cinta
+      - jodoh
+      - rencana
+
+   - q_no: 86
+     quote: "She does not need love, but she meant to be loved."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - cinta
+      - takdir
+      - sayang
+
+   - q_no: 87
+     quote: "Diperhatiin kalo ga dideketin buat apa?"
+     author: Farah Nuraini
+     author_bio: Cunle
+     tags:
+      - perhatian
+      - dekat
+      - buat apa
+
+   - q_no: 88
+     quote: "Geek is sexy"
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - geek
+      - sexy
+      - tulul
+
+   - q_no: 89
+     quote: "Males deh minjemin buku kalo gak dibaca.  Kaya minjemin hati, tapi gak bisa baca perasaan. Buat apa?"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - hati
+      - buku
+      - buat apa
+
+   - q_no: 90
+     quote: "First thing first: semua berawal dari'awalnya'. 'Awalnya sih...'"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - awal
+      - tulul
+      - galau
+
+   - q_no: 91
+     quote: "Banyak awal yang tidak berakhir gan, terlupakan di tengah"
+     author: Dean Budoyo
+     author_bio: Awn
+     tags:
+      - awal
+      - akhir
+      - lupa
+
+   - q_no: 92
+     quote: "Hanya karena elu ganteng, bukan berarti lu bisa melakukan segalanya."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - ganteng
+      - tulul
+      - segalanya
+
+   - q_no: 93
+     quote: "Orang cuma makan bareng, baru ketemu gak masalah, asal ganteng."
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - ganteng
+      - masalah
+      - bareng
+
+   - q_no: 94
+     quote: "Ganteng kalo gak bisa dimiliki buat apa?"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - ganteng
+      - buat apa
+      - tulul
+
+   - q_no: 95
+     quote: "Kalo buat dimiliki, ganteng aja gak cukup."
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - ganteng
+      - tulul
+      - segalanya
+
+   - q_no: 96
+     quote: "Duit yg berguna itu duit yg beredar"
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - duit
+      - berguna
+      - tulul
+
+   - q_no: 97
+     quote: "Menguasai hukum kalo enggak bisa menguasai hatinya buat apa? Otak dipake dikit lah."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - hukum
+      - hati
+      - buat apa
+
+   - q_no: 98
+     quote: "Daripada cuma penasaran, mending dideketin, biar tau sampe ke dalem2nya"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - penasaran
+      - dekat
+      - hati
+
+   - q_no: 99
+     quote: "Perasaan ga akan ke mana2 kalo si empunya ga move on juga"
+     author: Rizal Bahriawan
+     author_bio: Aa Ijal Raja Harem
+     tags:
+      - perasaan
+      - move on
+      - kenangan
+
+   - q_no: 100
+     quote: "Emang kenapa gak suka dibales pendek2 messagenya? Daripada ga dibales coba."
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - balas
+      - message
+      - tulul   
+
+   - q_no: 101
+     quote: "All you can eat itu lebih asik makan sendiri gan, ga banyak omong. Fokus makan jadi ga rugi."
+     author: Indra Prasetya
+     author_bio: Bintang film butuh modal nikah
+     tags:
+      - makan
+      - sendiri
+      - rugi
+
+   - q_no: 102
+     quote: "Kalau masalahnya kurang uang, solusinya bukan berhemat, tapi cari uang lebih banyak."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - uang
+      - hemat
+      - masalah
+
+   - q_no: 103
+     quote: "karena cowo dan cewe sering berbeda bahasa. terkadang musik bisa jadi translatornya"
+     author: Dean Budoyo
+     author_bio: Awn
+     tags:
+      - bahasa
+      - musik
+      - beda
+
+   - q_no: 104
+     quote: "karena cowo dan cewe sering berbeda bahasa. terkadang musik bisa jadi translatornya"
+     author: Dean Budoyo
+     author_bio: Awn
+     tags:
+      - bahasa
+      - musik
+      - beda
+
+   - q_no: 105
+     quote: "Lebih dingin lagi kalau hati itu didiamkan, tidak ada yang menghangatkan."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - dingin
+      - hangat
+      - hati
+
+   - q_no: 106
+     quote: "Tungku pemanas pun tidak dapat menghangatkan hati yang dingin"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - dingin
+      - hangat
+      - hati
+
+   - q_no: 107
+     quote: "Hati bisa dingin ya karena tidak ada yang menghangatkan. Sesederhana itu lu tidak bisa mengerti?"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - dingin
+      - hangat
+      - hati
+
+   - q_no: 108
+     quote: "Hari guru tapi di sekolah malah jadi gak belajar."
+     author: Aditya Prakarsa
+     author_bio: Gempal
+     tags:
+      - guru
+      - sekolah
+      - belajar
+
+   - q_no: 109
+     quote: "Hotline anti galau tapi yang punya hotline galau mulu"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - galau
+      - hotline
+      - tulul
+
+   - q_no: 110
+     quote: "Ibarat lu suka sama seseorang. Ngambil hatinya gimana? Ya temuin orangnya dan orangtuanya. Gitu."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - jodoh
+      - hati
+      - nikah
+
+   - q_no: 111
+     quote: "Emang bahagia harus punya pasangan?"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - bahagia
+      - pasangan
+      - jodoh
+
+   - q_no: 112
+     quote: "Yg penting bukan berpasangannya, tapi berpasangan dengan orang yang tepat"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - bahagia
+      - pasangan
+      - jodoh
+
+   - q_no: 113
+     quote: "Kalau cuma teori, siapapun bisa sih"
+     author: Ashar Fuadi
+     author_bio: Pembela kapitalis
+     tags:
+      - teori
+      - bisa
+      - motivator
+
+   - q_no: 114
+     quote: "Fall for someone emang kadang ngeganggu sih"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - cinta
+      - ganggu
+      - jodoh
+
+   - q_no: 115
+     quote: "Emang kalo punya waifu jadi gak jomblo?"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - waifu
+      - pasangan
+      - jomblo
+
+
+   - q_no: 116
+     quote: "Gue suka mikir kalo yang buat plan jalan2 sama orang aja suka conflict, gimana buat plan jalan seumur hidup sama orang."
+     author: Mira Pravitasari
+     author_bio: Presiden RI 2034
+     tags:
+      - pasangan
+      - jalan
+      - rencana
+
+   - q_no: 117
+     quote: "Uang itu dibagi habis. Tapi cinta dibagi makin banyak, begitu juga ilmu."
+     author: Ricky Daniel
+     author_bio: Admin Tulul
+     tags:
+      - bagi
+      - cinta
+      - uang
+
+   - q_no: 118
+     quote: "Banyak yang katanya menggunakan hak suara.... tapi suara hati gak pernah didengarkan..."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - suara
+      - hati
+      - dengar
+
+   - q_no: 119
+     quote: "Manusia hanya bisa berencana, dompet jualah yang menentukan."
+     author: Fajar Rizky
+     author_bio: Jarwo
+     tags:
+      - rencana
+      - manusia
+      - uang
+
+
+   - q_no: 120
+     quote: "Jakarta mah kalo diibaratin simcity mestinya quit game, trus new game aja"
+     author: Inas Junus
+     author_bio: Ibu Rumah Tangga Tulul
+     tags:
+      - jakarta
+      - kota
+      - ibarat
+
+   - q_no: 121
+     quote: "There's no such thing as 'gitu doang' in requirement gathering."
+     author: Farah Nuraini
+     author_bio: Cunle
+     tags:
+      - gitu doang
+      - requirement
+      - proyek
+
+   - q_no: 122
+     quote: "Sebelum tanya, gugling dulu lel"
+     author: Dean Budoyo
+     author_bio: Awn
+     tags:
+      - tanya
+      - google
+      - leli
+
+   - q_no: 123
+     quote: "Suatu hati tidak akan bergerak sampai ada cinta lain yang memaksanya bergerak."
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - hati
+      - cinta
+      - geek
+
+   - q_no: 124
+     quote: "Kalo mau move on harus cari pengganti secepatnya. Kalo nggak, bakal tetep dalam keadaan diam, kekekalan inersia."
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - hati
+      - cinta
+      - bergerak
+
+   - q_no: 125
+     quote: "Agree now, complain later"
+     author: Umroh Machfudza
+     author_bio: Calon ibu rumah tangga tulul
+     tags:
+      - agree
+      - complain
+      - tulul
+
+   - q_no: 126
+     quote: "Agile Government."
+     author: Mira Pravitasari
+     author_bio: Presiden RI 2034
+     tags:
+      - agile
+      - geek
+      - government
+
+   - q_no: 127
+     quote: "Long weekend kalo sendirian buat apa"
+     author: Muhammad Iqbal
+     author_bio: Pejuang cinta pantang mundur
+     tags:
+      - buat apa
+      - liburan
+      - sendiri
+
+   - q_no: 128
+     quote: "Kalo udah pergi bukannya bisa jadi milik siapa aja ya?"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - pergi
+      - milik
+      - jodoh
+
+   - q_no: 129
+     quote: "Bisakah lu merasakan kembali hangatnya tubuh bersama orang tercinta hanya dari foto?"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - dingin
+      - hangat
+      - hati
+
+   - q_no: 130
+     quote: "TMerindukan sosok seorang......... sudahlahya. Dah malem. Bobo"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - tulul
+      - rindu
+      - galau
+
+   - q_no: 131
+     quote: "Time machine bisa mengembalikan foto yang hilang tapi dia gak bisa mengembalikan kenangan yang ada di foto itu. Sungguh, product manager TM pasti gak lulus komas."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - rindu
+      - tulul
+      - galau
+
+   - q_no: 132
+     quote: "Gue pernah foto bareng orang yang gue rindukan. Fotonya sih rame rame, tapi abis itu gw crop, gw simpen sendiri dan gw encrypt 256-bit AES pake TC. Terus sekarang lupa passphrase-nya. :((((("
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - rindu
+      - tulul
+      - galau
+
+   - q_no: 133
+     quote: "Gue menyesal gugling"
+     author: Denny Haryadi
+     author_bio: Dewa Dunia Nyata dan Digital
+     tags:
+      - menyesal
+      - tulul
+      - google
+
+   - q_no: 134
+     quote: "Lu tidak perlu memahami semua hal yang terjadi di dunia ini, tapi lu hanya butuh 1 orang saja yang memahami diri lu seutuhnya."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - paham
+      - tulul
+      - galau
+
+   - q_no: 135
+     quote: "Kenapa harus nunggu orang lain untuk beraksi?"
+     author: Ricky Daniel
+     author_bio: Admin Tulul
+     tags:
+      - aksi
+      - tulul
+      - menunggu
+
+   - q_no: 136
+     quote: "Bukan semua cowok sama, tapi lu cuma ketemu cowok yang sama"
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - cowok
+      - sama
+      - ketemu
+
+   - q_no: 137
+     quote: "Yang penting saling menghormati dan mencintai aja bro sis. Syukur2 kalo jodoh"
+     author: Adrian Nuradiansyah
+     author_bio: Awesome Akhi
+     tags:
+      - hormat
+      - cinta
+      - jodoh
+
+   - q_no: 138
+     quote: "Dalam cinta gak ada yang salah! Kalo dia bisa lebih bahagia dengan gue, kenapa gue relakan dia sama orang lain!"
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - cinta
+      - tulul
+      - bahagia
+
+   - q_no: 139
+     quote: "Kalo kita substract ssuu dari kata swastu, kita dapatkan wat."
+     author: Dean Budoyo
+     author_bio: Awn
+     tags:
+      - tulul
+      - wat
+      - substract
+
+   - q_no: 140
+     quote: "Kalo cewe gemuk berarti harus cari cowo yang lebih gemuk?"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - gemuk
+      - tulul
+      - jodoh
+
+   - q_no: 141
+     quote: "Keren di mata belum tentu menarik hati"
+     author: Farah Nuraini
+     author_bio: Cunle
+     tags:
+      - keren
+      - hati
+      - menarik
+
+   - q_no: 142
+     quote: "Gugling cuma dapet informasi. Ga dapet orangnya."
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - google
+      - info
+      - jodoh 
+
+  -  q_no: 143
+     quote: "Ketika user menuntut, mesti quick sih"
+     author: Kemal Maulana
+     author_bio: Kems kems
+     tags:
+      - proyek
+      - geek
+      - user
+
+  -  q_no: 144
+     quote: "Tundukkan pandangan, akhi"
+     author: Adrian Nuradiansyah
+     author_bio: Awesome akhi
+     tags:
+      - pandangan
+      - tulul
+      - akhi
+
+  -  q_no: 145
+     quote: "Jadi kalo nolak gini: #imho kita temenan aja ya"
+     author: Muhammad Iqbal
+     author_bio: Pejuang cinta pantang mundur
+     tags:
+      - cinta
+      - tulul
+      - teman
+
+  -  q_no: 146
+     quote: "Cintailah produk-produk tulul"
+     author: Muhammad Iqbal
+     author_bio: Pejuang cinta pantang mundur
+     tags:
+      - cinta
+      - tulul
+      - produk
+
+  -  q_no: 147
+     quote: "Kalo ada yang mau kenalan sama gw, gw boleh banget loh."
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - kenalan
+      - tulul
+      - jodoh
+
+ -  q_no: 148
+    quote: "Hidup mah murah, gaya hidup yang mahal"
+    author: Aditya Prakarsa
+    author_bio: Gempal
+    tags:
+     - hidup
+     - mahal
+     - murah
+
+  -  q_no: 149
+     quote: "Kita orang-orang techies harus bersyukur ya. Banyak peluang sana sini. Meanwhile orang-orang di luar sana nyari kerja susah coy. :"
+     author: Muhammad Mufid
+     author_bio: Guru besar kasih sayang
+     tags:
+      - kenalan
+      - tulul
+      - jodoh
+
+  -  q_no: 150
+     quote: "Ngga, gw gak benci app nya. Kalo tiba2 app nya bagus, engineeringnya oke, gw gak benci. gw benci keserakahan aja, kejar2 fitur atau duit atau apa tapi mengesampingkan tech. Mungkin gw terlalu idealis."
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - benci
+      - geek
+      - engineer
+
+  -  q_no: 151
+     quote: "Itulah tugas engineer. Harus tetep bisa gak mengorbankan tech meski ditekan bisnis. Kalo bukan engineernya yg mati2an belain kualitas engineering dll, siapa lagi?"
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - tugas
+      - geek
+      - engineer
+
+  -  q_no: 152
+     quote: "Gue emang multi talenta sih."
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - talenta
+      - geek
+      - tulul
+
+   - q_no: 153
+     quote: " > Nonton drama > Kesel karena ada dramanya. Like, what do you expect"
+     author: Fajar Rizky
+     author_bio: Jarwo
+     tags:
+      - drama
+      - tulul
+      - Nonton
+
+  -  q_no: 154
+     quote: "Some really, really talented people are motivated by the challenge they'll face or new things they'll learn at work, rather than job safety or company brand"
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - talenta
+      - geek
+      - tulul
+
+  - q_no: 155
+    quote: "Kalo ada otak, pake otak dulu shar."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - otak
+     - tulul
+     - aksi
+
+  -  q_no: 156
+     quote: "Orthogonal dengan perasaannya ya. Makanya gak dapet2."
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - perasaan
+      - geek
+      - tulul
+
+  -  q_no: 157
+     quote: "Programmer java semakin decouple semakin bagus. Semakin jauh dari kenyataan semakin bagus."
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - kenyataan
+      - geek
+      - tulul
+
+  -  q_no: 158
+     quote: "A loli a day, keeps your sadness away!"
+     author: Eriq Pratista
+     author_bio: Tululphile
+     tags:
+      - waifu
+      - geek
+      - tulul
+
+  - q_no: 159
+    quote: "Kalau harga di bawah 50k, buy without think."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - tulul
+     - duit
+     - aksi
+
+  - q_no: 160
+    quote: "Ganteng bukannya suatu keniscayaan ya?"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - ganteng
+     - tulul
+     - keniscayaan
+
+  -  q_no: 161
+     quote: "Cowo yang mudah, ganteng, sholeh, mapan, pinter ga langka ah. *melirik diri sendiri"
+     author: Kemal Maulana
+     author_bio: Kems Kems
+     tags:
+      - talenta
+      - cowok
+      - tulul
+
+  - q_no: 162
+    quote: "Kalo cuma sampai minat doang sih percuma"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - tulul
+     - percuma
+     - aksi
+
+  - q_no: 163
+    quote: "Astaghfirullah akhi, antum tilawah satu juz per hari masih suka ngepoin akhowat?"
+    author: Andika Yudha
+    author_bio: Penimba ilmu dan cinta
+    tags:
+     - kepo
+     - akhi
+     - akhowat
+
+   - q_no: 164
+     quote: "Catur walopun bidaknya banyak, tetep yang mikir 1 orang"
+     author: Nurlaili Fajriyah
+     author_bio: Anak baik rajin gugling
+     tags:
+      - catur
+      - geek
+      - mikir
+
+  - q_no: 165
+    quote: "Kalau diperhatikan secara seksama, gw ganteng juga ya"
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - ganteng
+     - tulul
+     - keniscayaan
+
+  - q_no: 166
+    quote: "Kegantengan itu mirip kaya kebenaran ya. Ketika disampaikan di awal, banyak yang menolak."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - ganteng
+     - tulul
+     - keniscayaan
+
+  - q_no: 167
+    quote: "Istri bukannya emang gratis ya?"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - istri
+     - gratis
+     - tulul
+
+  - q_no: 168
+    quote: "Gw tadi baca2 tentang Haskell trus terharu"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - geek
+     - engineer
+     - tulul
