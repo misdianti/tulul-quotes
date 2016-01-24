@@ -615,7 +615,7 @@ quotes:
    - q_no: 69
      quote: "Jangan cuma nyuruh bikin bot. Bikin sendiri dong. Dah S.Kom juga"
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - kampus
       - bikin
@@ -741,7 +741,7 @@ quotes:
    - q_no: 83
      quote: "Jgn dibandingin sih Palantir ngeri. Kelasnya ama GOOGLE, APPLE dkk. Tapi buat apa itu semua kalau hampa rohani kita?"
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - hati
       - hampa
@@ -786,7 +786,7 @@ quotes:
    - q_no: 88
      quote: "Geek is sexy"
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - geek
       - sexy
@@ -1283,7 +1283,7 @@ quotes:
   -  q_no: 143
      quote: "Ketika user menuntut, mesti quick sih"
      author: Kemal Maulana
-     author_bio: Kems kems
+     author_bio: Engineer multi talenta
      tags:
       - proyek
       - geek
@@ -1346,7 +1346,7 @@ quotes:
   -  q_no: 150
      quote: "Ngga, gw gak benci app nya. Kalo tiba2 app nya bagus, engineeringnya oke, gw gak benci. gw benci keserakahan aja, kejar2 fitur atau duit atau apa tapi mengesampingkan tech. Mungkin gw terlalu idealis."
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - benci
       - geek
@@ -1355,7 +1355,7 @@ quotes:
   -  q_no: 151
      quote: "Itulah tugas engineer. Harus tetep bisa gak mengorbankan tech meski ditekan bisnis. Kalo bukan engineernya yg mati2an belain kualitas engineering dll, siapa lagi?"
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - tugas
       - geek
@@ -1364,7 +1364,7 @@ quotes:
   -  q_no: 152
      quote: "Gue emang multi talenta sih."
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - talenta
       - geek
@@ -1382,7 +1382,7 @@ quotes:
   -  q_no: 154
      quote: "Some really, really talented people are motivated by the challenge they'll face or new things they'll learn at work, rather than job safety or company brand"
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - talenta
       - geek
@@ -1400,7 +1400,7 @@ quotes:
   -  q_no: 156
      quote: "Orthogonal dengan perasaannya ya. Makanya gak dapet2."
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - perasaan
       - geek
@@ -1445,7 +1445,7 @@ quotes:
   -  q_no: 161
      quote: "Cowo yang mudah, ganteng, sholeh, mapan, pinter ga langka ah. *melirik diri sendiri"
      author: Kemal Maulana
-     author_bio: Kems Kems
+     author_bio: Engineer multi talenta
      tags:
       - talenta
       - cowok
@@ -1512,4 +1512,13 @@ quotes:
     tags:
      - geek
      - engineer
+     - tulul
+
+  - q_no: 169
+    quote: "Gw emg rupawan sih jadi serasi aja ama siapapun"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - tampan
+     - ganteng
      - tulul
