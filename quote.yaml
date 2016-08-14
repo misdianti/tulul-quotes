@@ -1,4 +1,3 @@
---- 
 quotes: 
   - q_no: 1
     quote: "Kenapa kalo mau sahur tiba2 ngantuk? Karena Anda belum punya cinta yang menemani Anda sahur."
@@ -1605,7 +1604,7 @@ quotes:
      - bait
 
   - q_no: 179
-    quote: "dulu aku pengen jadi puteri indonesia \xF0\x9F\x98\xAD "
+    quote: "dulu aku pengen jadi puteri indonesia"
     author: Febriana Misdianti
     author_bio: Pecinta lelaki tampan
     tags:
@@ -1722,7 +1721,7 @@ quotes:
     - perkataan
 
   - q_no: 192
-    quote: "Sorry ga mengobati rasa sakit kesenggol orang \xF0\x9F\x98\x94"
+    quote: "Sorry ga mengobati rasa sakit kesenggol orang"
     author: Swastu Puri Antini
     author_bio: Fotografer Tulul
     tags:
@@ -1749,7 +1748,7 @@ quotes:
      - cina
 
   - q_no: 195
-    quote: "iyaaaa.... kangen masa muda pas msh bisa makan banyak \xF0\x9F\x98\xAD \xF0\x9F\x98\xAD \xF0\x9F\x98\xAD \xF0\x9F\x98\xAD "
+    quote: "iyaaaa.... kangen masa muda pas msh bisa makan banyak"
     author: Febriana Misdianti
     author_bio: Pecinta lelaki tampan
     tags:
@@ -2792,6 +2791,476 @@ quotes:
      - penuh
      - rasa
 
-#last quote : 24 - 3 - 2016
+# last quote : 24 - 3 - 2016
+
+# quotes missed between this period. someone please add them, thanks
+
+#start quote: 18 - 5 - 2016
+
+  - q_no: 311
+    quote: "kayanya gak ada cewe yang pernah gw gantungin deh. gw konsisten, kalo suka ya gw terima, kalo gak ya gw tolak, gitu."
+    author: Muhammad Mufid
+    author_bio: Guru besar kasih sayang
+    tags:
+     - pikiranku
+     - prinsip
+     - delusionist
+
+  - q_no: 312
+    quote: "Aku masih butuh waktu buat kasih jawaban"
+    author: Eriq Pratista
+    author_bio: Tululphile
+    tags:
+     - keputusan
+     - jawaban
+     - perasaan
+
+  - q_no: 313
+    quote: "nikah jgn krn dikejar waktu shar"
+    author: Aditya Try Anggoro
+    author_bio: Jin Pemburu Cinta
+    tags:
+     - nasehat
+     - nikah
+     - waktu
+
+  - q_no: 314
+    quote: "soalnya kamu manis pal"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - kode
+     - gombal
+     - manis
+
+  - q_no: 315
+    quote: "Kalau ga boleh download, bikin aja"
+    author: Rizki Synergi
+    author_bio: Alias Tamako
+    tags:
+     - kreatif
+     - download
+     - berkarya
+
+  - q_no: 316
+    quote: "q"
+    author: Fajar Rizky
+    author_bio: Jarwo
+    tags:
+     - jelas
+     - oke
+     - jawaban
+
+  - q_no: 317
+    quote: "jangan rebut aji dariku!!!"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - perasaan
+     - kehilangan
+     - hubungan
+
+  - q_no: 318
+    quote: "jgn biarkan mimpi lu cuma jadi mimpi dinn"
+    author: Eriq Agustab
+    author_bio: Tululphile
+    tags:
+     - mimpi
+     - realisasi
+     - angan
+
+  - q_no: 319
+    quote: "Ahh eriq"
+    author: Swastu Puri Antini
+    author_bio: Fotografer Tulul
+    tags:
+     - kode
+     - gombal
+     - ngambek
+
+  - q_no: 320
+    quote: "gf itu godfather?"
+    author: Aditya Prakarsa
+    author_bio: Gempal
+    tags:
+     - pertanyaan
+     - godfather
+     - bingung
+
+  - q_no: 321
+    quote: "Dimana lagi bs nyampah senyampah2 nya selain di sini (blush)"
+    author: Khafidlotun
+    author_bio: Menanti Ihwan Halal
+    tags:
+     - tulul
+     - menyampah
+     - bahagia   
+
+  - q_no: 322
+    quote: "Paling enak sih sama2 belajar. Sama2 belajar masak, sama2 belajar benerin rumah"
+    author: Farah Nuraini
+    author_bio: Cunle 
+    tags:
+     - rumah 
+     - belajar
+     - menikah
+
+  - q_no: 323
+    quote: "#temennunggu #bali #berojolsebentarlagi #hamilintemensendiri #jodohdidekatkita #wife #bestpartnerincrime"
+    author: Alfian Erliansyah
+    author_bio: Fawn
+    tags:
+     - hamilin
+     - temen
+     - menikah 
+
+  - q_no: 324
+    quote: "senyaman-nyamannya kantor lebih nyaman pelukan istri gak sih"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - kerja
+     - istri
+     - pelukan 
+
+  - q_no: 325
+    quote: "hidup jomblo disini mesti tahan banting cuy org2 dimana2 berpasangan kissing di escalator nunggu kereta sambil pelukan ya ampun <blog/>"
+    author: Esther Hannateta Daniel
+    author_bio: Ratu Modus
+    tags:
+     - jomblo
+     - pasangan
+     - tahan
+
+  - q_no: 326
+    quote: "toh lu cuma butuh sebelah tangan buat mindahin bidak, sebelah buat meluk"
+    author: Inas Junus
+    author_bio: Ibu rumah tangga tulul
+    tags:
+     - bidak
+     - pelukan
+     - strategi
+
+  - q_no: 327
+    quote: "manusia aneh2 ya"
+    author: Inas Junus
+    author_bio: Ibu rumah tangga tulul
+    tags:
+     - manusia
+     - aneh
+     - pikiran
+
+  - q_no: 328
+    quote: >
+            hmm rumit sih. Kalo ngebahas kenapa perilaku mereka kurang ajar kaya gitu,
+            itu bisa dipahami karena lingkungan mereka sendiri gak mengajarkan perilaku kaya gitu.
+            Rata-rata anak di daerah begitu tidak mendapatkan kasih sayang yang cukup dari orang tuanya.
+            Kalau di keluarga mereka sendiri tidak ada kelemahlembutan, dari mana mereka bisa belajar kesantunan?
+    author: Mufid Afif
+    author_bio: Guru besar kasih sayang
+    tags:
+     - perilaku
+     - anak
+     - santun
+
+  - q_no: 329
+    quote: >
+            Children Learn What They Live
+            By Dorothy Law Nolte, Ph.D.
+
+            If children live with criticism, they learn to condemn.
+            If children live with hostility, they learn to fight.
+            If children live with fear, they learn to be apprehensive.
+            If children live with pity, they learn to feel sorry for themselves.
+            If children live with ridicule, they learn to feel shy.
+            If children live with jealousy, they learn to feel envy.
+            If children live with shame, they learn to feel guilty.
+            If children live with encouragement, they learn confidence.
+            If children live with tolerance, they learn patience.
+            If children live with praise, they learn appreciation.
+            If children live with acceptance, they learn to love.
+            If children live with approval, they learn to like themselves.
+            If children live with recognition, they learn it is good to have a goal.
+            If children live with sharing, they learn generosity.
+            If children live with honesty, they learn truthfulness.
+            If children live with fairness, they learn justice.
+            If children live with kindness and consideration, they learn respect.
+            If children live with security, they learn to have faith in themselves and in those about them.
+            If children live with friendliness, they learn the world is a nice place in which to live.
+    author: Nisrina Rahmah
+    author_bio: Ratu Snepcet
+    tags:
+     - puisi
+     - anak
+     - perilaku
+
+  - q_no: 330
+    quote: "Bukannya karena lingkungannya keras ya? Supaya bertahan harus keliatan kuat, jadinya udah biasa kasar"
+    author: Farah Nuraini
+    author_bio: Cunle
+    tags:
+     - perilaku
+     - lingkungan
+     - keras
+
+  - q_no: 331
+    quote: >
+            Jika anak dibesarkan dengan celaan, dia belajar memaki
+
+            Jika anak dibesarkan dengan permusuhan/kekerasan, dia belajar membenci
+
+            Jika anak dibesarkan dengan cemoohan, dia belajar rendah diri
+
+            Jika anak dibesarkan dengan hinaan, dia belajar menyesali diri
+
+            Jika anak dibesarkan dengan toleransi, dia belajar menahan diri
+
+            Jika anak dibesarkan dengan pujian, dia belajar menghargai
+
+            Jika anak dibesarkan dengan dorongan, dia belajar percaya diri
+
+            Jika anak dibesarkan dengan sebaik-baiknya perlakuan, dia belajar keadilan
+
+            Jika anak dibesarkan dengan rasa aman, dia belajar menaruh kepercayaan
+
+            Jika anak dibesarkan dengan dukungan, dia belajar menyenangi dirinya
+
+            Jika anak dibesarkan dengan kasih sayang dan persahabatan, dia pun belajar menemukan cinta dalam kehidupan
+    author: Nisrina Rahmah
+    author_bio: Ratu Snepcet
+    tags:
+     - anak
+     - lingkungan
+     - perilaku
+
+
+  - q_no: 332
+    quote: "menurut gw anak harus dibesarkan cara melawan penindasan cuy"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - anak
+     - kekerasan
+     - penindasan
+
+  - q_no: 333
+    quote: "makanya selanjutnya gak ditolak wir. #eh"
+    author: Nisrina Rahmah
+    author_bio: Ratu Snepcet
+    tags:
+     - taaruf
+     - penerimaan
+     - jodoh
+
+  - q_no: 334
+    quote: "bullying di sekolahan is real"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - penindasan
+     - kekerasan
+     - sekolah
+
+  - q_no: 335
+    quote: "inget jin lu bisa sampai kayak sekarang ini karena ngoding di fasilkom"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - ngoding
+     - fasilkom
+     - nasehat
+
+  - q_no: 336
+    quote: "Klo dibawah harusnya dia tau diri"
+    author: Afdhol Martoni
+    author_bio: Turbarbie
+    tags:
+     - kekuasaan
+     - nasehat
+     - kehidupan
+
+  - q_no: 337
+    quote: "Java itu kayak Lion Air cuy, meskipun mungkin banyak kekurangannya, tetep aja dibutuhin banyak orang."
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - ngoding
+     - perbandingan
+     - kebutuhan
+
+  - q_no: 338
+    quote: "aku lebih percaya nanda"
+    author: Febriana Misdianti
+    author_bio: Pecinta lelaki tampan
+    tags:
+     - kepercayaan
+     - preferensi
+     - prinsip
+
+  - q_no: 339
+    quote: "Pemasukan nambah, pengeluaran nambah, tabungan juga harus nambah. Pake persentase aja baginya."
+    author: Nanda Firdaus
+    author_bio: Investor rumah tangga
+    tags:
+     - perhitungan
+     - strategi
+     - finansial
+
+  - q_no: 340
+    quote: "Indonesia open, tapi kebanyakan rakyatnya gak open-minded"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - pemikiran
+     - perubahan
+     - indonesia
+
+  - q_no: 341
+    quote: "SAYANGKUUUU (love) (love) (love)"
+    author: Esther Hannateta Daniel
+    author_bio: Ratu Modus
+    tags:
+     - sayang
+     - kode
+     - gombal
+
+  - q_no: 342
+    quote: "yapunya lah cun. komitmen dengan Allah SWT"
+    author: Dinna Amelina
+    author_bio: Ratu Tulul
+    tags:
+     - komitmen
+     - Tuhan 
+     - prinsip
+
+  - q_no: 343
+    quote: "but as me being Ian, there's always a great plot twist"
+    author: Ian Djakman
+    author_bio: Warga Tulul4
+    tags:
+     - prinsip
+     - diriku
+     - pribadi
+
+  - q_no: 344
+    quote: "kadang yang kita liat atau dengar sendiri belum tentu bisa dipercaya, karena itu persepsi yang dibuat otak kita"
+    author: Swastu Puri Antini
+    author_bio: Fotografer Tulul
+    tags:
+     - persepsi
+     - kepercayaan
+     - pembuktian
+
+  - q_no: 345
+    quote: "I want to be very close to someone I respect and admire and have somebody who feels the same way about me."
+    author: Febriana Misdianti
+    author_bio: Pecinta lelaki tampan
+    tags:
+     - keinginan
+     - harapan
+     - prinsip
+
+  - q_no: 346
+    quote: "American football party!, Nah, not interested."
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - kode
+     - kencan
+     - penolakan
+
+  - q_no: 347
+    quote: "Deri: kamu anjing, Leli: ahhh *terpesona*, Cunlai: #qt"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - kode
+     - kencan
+     - terpesona
+
+  - q_no: 348
+    quote: "Kalo ganteng pasti ga konsen, ga konsen belum tentu ganteng"
+    author: Farah Nuraini
+    author_bio: Cunle
+    tags:
+     - ganteng 
+     - konsentrasi
+     - teori
+
+  - q_no: 349
+    quote: "Logic does not apply to me"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - prinsip
+     - pribadi
+     - teori
+
+  - q_no: 350
+    quote: "a game is worth playing even if all of the characters are ugly"
+    author: Kemal Maulana
+    author_bio: Engineer multi talenta
+    tags:
+     - prinsip
+     - pemikiran
+     - teori
+
+  - q_no: 351
+    quote: "Cuy jgn nodai kita"
+    author: Eriq Pratista
+    author_bio: Tululphile
+    tags:
+     - penolakan
+     - kode
+     - gombal
+
+  - q_no: 352
+    quote: "Rangkuti jangan nutupin burungnya"
+    author: Elsa Anggraini
+    author_bio: Warga Tulul5
+    tags:
+     - rangcutie
+     - burung 
+     - tutup
+
+  - q_no: 353
+    quote: "tapi psk bukannya gak jarang dibelai ya?"
+    author: Nuraini Fajriyah
+    author_bio: Anak baik rajin gugling
+    tags:
+     - belaian
+     - psk
+     - pertanyaan
+
+  - q_no: 354
+    quote: "guling mah tetep guling gimanapun bentuknya"
+    author: Febriana Misdianti
+    author_bio: Pecinta lelaki tampan
+    tags:
+     - prinsip
+     - teori
+     - guling
+
+  - q_no: 355
+    quote: "kemal rambutnya belah samping"
+    author: Dinna Amelina
+    author_bio: Ratu Tulul
+    tags:
+     - kemal
+     - rambut
+     - pendapat
+
+  - q_no: 356
+    quote: "mufid itu sebenernya bijak parah cuy"
+    author: Ashar Fuadi
+    author_bio: Pembela kapitalis
+    tags:
+     - mufid
+     - pemikiran
+     - pendapat    
+
+
+# last quote : 29 - 5 - 2016
+
 
 
